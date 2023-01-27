@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently exploring more on **Web3**
 
-- 👨‍💻 All of my projects are available at [GO TO MY PROFILE](GO TO MY PROFILE)
+- 👨‍💻 All of my projects are available at (https://github.com/RohitSahni07)
 
 - 📫 How to reach me **rohitsahni501@gmail.com**
 
